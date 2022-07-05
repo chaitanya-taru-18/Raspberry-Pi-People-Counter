@@ -18,11 +18,12 @@ Onto the ceiling, close to the room door, with the camera facing the region wher
 
 ### cameraCodeVideo.py
 Reading the recorded video and processing the count of people inside the room (by calculating the number of people who have entered and exited) is done in this file.
-The attributes in the file are needed to be tuned according to the area, ambience, angle, distance, and frame size of the camera.
+This file is the demonstration of how the code will work for live people counter. 
+Note - The attributes in the file are needed to be tuned according to the area, ambience, angle, distance, and frame size of the camera.
 
 ### cameraCodeLiveStream.py
 Reading the livestream video and processing the count of people inside the room (by calculating the number of people who have entered and exited) is done in this file.
-The attributes in the file are needed to be tuned according to the area, ambience, angle, distance, and frame size of the camera.
+Note - The attributes in the file are needed to be tuned according to the area, ambience, angle, distance, and frame size of the camera.
 
 ## Video Information
 ### video.mp4 
